@@ -1,0 +1,5 @@
+temp_mail_settings.json
+__pycache__/
+*.spec
+build/
+dist/
